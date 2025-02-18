@@ -1,0 +1,23 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.navbar {
+  margin-bottom: 30px;
+}
+
+.home-page {
+  text-align: center;
+  padding: 50px 0;
+}
+
+.events-page .card {
+  height: 100%;
+}
+
+.admin-page form {
+  max-width: 600px;
+  margin: 0 auto;
+}

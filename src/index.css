@@ -1,0 +1,29 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f9fa;
+}
+
+.container {
+  padding: 20px;
+}
+
+.card {
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
+
+.booking-form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.alert {
+  margin-top: 20px;
+}
+
+.btn:disabled {
+  cursor: not-allowed;
+}
